@@ -1,0 +1,8 @@
+# Scoped to this folder. Picked up automatically by Roslyn during compilation —
+# no consumer setup required. root = true prevents the consumer's project-root
+# .editorconfig from leaking analyzer severity overrides into this folder.
+
+root = true
+
+[*.cs]
+generated_code = true
