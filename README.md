@@ -234,7 +234,7 @@ The user dictionary is plain UTF-8 text at `user://text_widget_user_dictionary.t
 
 ## License
 
-0BSD. Do whatever you want with it, no attribution required. See `LICENSE`.
+MIT. See `LICENSE`.
 
 ## Issues and contributions
 
