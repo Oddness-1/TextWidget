@@ -238,4 +238,4 @@ The user dictionary is plain UTF-8 text at `user://text_widget_user_dictionary.t
 
 ## Issues and contributions
 
-[TODO: repo URL]
+https://github.com/Oddness-1/TextWidget
